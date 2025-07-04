@@ -47,6 +47,7 @@ This project focuses on leveraging quantum algorithms to solve maze navigation p
 
 ## Results
 The quantum-inspired solver outperformed traditional algorithms in navigating complex mazes, as detailed in the project report. The solver efficiently handles intricate paths, with performance visualized through the Pygame interface showing agent paths and completion time.
+![GUI](Other/SolvedMaze.png)
 
 ## Future Work
 - Extend the quantum algorithm to handle larger and dynamic mazes.
